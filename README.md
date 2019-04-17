@@ -14,5 +14,6 @@
  * 11，android自定义View-matrix
  * 12，android自定义View-camera
  * 13，android自定义View-事件分发
+ *该知识还未完善，后期会一步一步完善
  */
-该知识还未完善，后期会一步一步完善
+
